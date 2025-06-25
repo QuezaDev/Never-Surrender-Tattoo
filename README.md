@@ -29,7 +29,7 @@ Este projeto é uma landing page moderna, responsiva e interativa para estúdio 
 ## 📲 Acesse o site
 
 🔗 [https://quezadev.github.io/Never-Surrender-Tattoo](https://quezadev.github.io/Never-Surrender-Tattoo)
-Em breve com dominio próprio!
+<p>Em breve com dominio próprio! (Se não conseguir entrar, só copiar a URL acima e colar no navegador).</p>
 
 ## 📬 Contato
 
